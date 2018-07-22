@@ -26,3 +26,7 @@ The process consists of the folloring steps:
 
 ### Raw Image vs Processed Image
 ![](https://cmmlin2016.files.wordpress.com/2013/11/sobel_result.jpg)
+
+
+### Related Papers
+[Sobel Edge Detection Algorithm](https://pdfs.semanticscholar.org/6bca/fdf33445585966ee6fb3371dd1ce15241a62.pdf)
