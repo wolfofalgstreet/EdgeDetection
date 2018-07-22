@@ -29,6 +29,9 @@ The process consists of the folloring steps:
 <em></em>
 
 ### Related Papers
+
+[Canny Edge Detection Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
+
 [Sobel Edge Detection Algorithm](https://pdfs.semanticscholar.org/6bca/fdf33445585966ee6fb3371dd1ce15241a62.pdf)
 
-[Sobel Edge Detection Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
+
