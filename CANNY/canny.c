@@ -45,7 +45,7 @@ int main(int argc, const char * argv[]) {
 
     if (argc == 4) {
         // IDE TESTING //
-        //char* fileName = "/Users/Isaias/Desktop/FALL 2017/ROBOT VISION/ASSIGNMENTS/#1/B_Canny/Canny/Canny/garb34.pgm";
+        //char* fileName = "/garb34.pgm";
         // TERMINAL TESTING //
         const char* fileName = argv[1];
 
