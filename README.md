@@ -1,5 +1,5 @@
 # EdgeDetection-Algos
-Implements two computer early computer vision algorithms, the Sobel and Canny edge detectors. 
+Implements two early computer vision algorithms, the Sobel and Canny edge detectors. 
 
 ## Canny Edge Detector
 
@@ -12,9 +12,17 @@ The process consits of the following steps:
 4. Apply double threshold to determine potential edges.
 5. Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and not connected to strong edges.
 
-#### Raw Image vs Processed Image
+### Raw Image vs Processed Image
 ![](https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%84%C3%A4retuvastuse_n%C3%A4ide.png)
 
 ## Sobel Edge Detector
 
+The sobel filter is an inproved edge detection algorithm.
 
+The process consists of the folloring steps:
+1. Convolution kernels for both axes.
+2. Find absolute magnitude of directional gradients.
+3. Using the direction of the gradient determine neighboring pixels to confirm edge.
+
+### Raw Image vs Processed Image
+![](https://cmmlin2016.files.wordpress.com/2013/11/sobel_result.jpg)
